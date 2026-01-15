@@ -21,4 +21,4 @@
 
 ### Copyright
 
-* Copyright &#169; 2025 Lê Hoàng Vũ
+* Copyright &#169; 2026 Lê Hoàng Vũ
