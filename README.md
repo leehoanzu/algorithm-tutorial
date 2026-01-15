@@ -7,6 +7,14 @@
 * Additional data structures and algorithms (coming soon)
 * ...
 
+### Output
+
+![Log](https://github.com/leehoanzu/algorithm-tutorial/blob/main/images/linked_list_terminal.png)
+
+* Another
+
+![Log](https://github.com/leehoanzu/algorithm-tutorial/blob/main/images/circular_queue_terminal.png)
+
 ### Contact
 
 * Connect with me via email: lehoangvu260602@gmail.com
