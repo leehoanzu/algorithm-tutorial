@@ -1,0 +1,10 @@
+# ===== Dev-C++ =====
+*.exe
+*.o
+*.obj
+*.a
+*.dll
+*.lib
+*.win
+*.layout
+*.h.gch
